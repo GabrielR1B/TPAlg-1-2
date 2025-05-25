@@ -11,13 +11,6 @@ A entrada é lida da entrada padrão e consiste em:
 
     Uma última linha com dois inteiros x e y, representando as coordenadas da capital no mapa. As coordenadas são 1-based (ou seja, começam em 1).
 
-Restrições
-
-    3 ≤ n, m ≤ 300
-
-    Aij ≤ 10^4, onde Aij é o valor de cada célula do mapa.
-
-    As posições com 0 indicam montanhas que não podem ser atravessadas.
 
 Exemplo de Entrada
 
